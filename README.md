@@ -1,7 +1,5 @@
 # DataCamp
-https://www.datacamp.com/
-
-<br>
+Go to DataCamp https://www.datacamp.com/
  
 ### :point_right:[【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) (Not started)  
 84 hours 22 Courses
