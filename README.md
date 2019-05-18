@@ -1,5 +1,4 @@
 # DataCamp
-This is a repository for DataCamp courses.  
 :point_right: https://www.datacamp.com/
 
 <br>
