@@ -8,7 +8,7 @@ This is a repository for DataCamp courses.
 [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python) (WIP)  
 [Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn) (WIP)  
 
-:point_right: Career Track
+:point_right: Career Track  
 [【Data Scientist with Python】](https://www.datacamp.com/tracks/data-scientist-with-python) (Not started)  
 84 hours 22 Courses
 
